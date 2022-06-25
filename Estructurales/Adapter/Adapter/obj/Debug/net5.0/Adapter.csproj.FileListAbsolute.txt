@@ -1,0 +1,16 @@
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\bin\Debug\net5.0\Adapter.exe
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\bin\Debug\net5.0\Adapter.deps.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\bin\Debug\net5.0\Adapter.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\bin\Debug\net5.0\Adapter.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\obj\Debug\net5.0\Adapter.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\obj\Debug\net5.0\refint\Adapter.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\obj\Debug\net5.0\Adapter.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Adapter\Adapter\obj\Debug\net5.0\ref\Adapter.dll

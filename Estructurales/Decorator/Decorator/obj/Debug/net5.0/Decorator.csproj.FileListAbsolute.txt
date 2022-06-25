@@ -1,0 +1,16 @@
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\obj\Debug\net5.0\Decorator.csproj.AssemblyReference.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\obj\Debug\net5.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfo.cs
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\obj\Debug\net5.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\bin\Debug\net5.0\Decorator.exe
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\bin\Debug\net5.0\Decorator.deps.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.dev.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\bin\Debug\net5.0\Decorator.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\bin\Debug\net5.0\Decorator.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\obj\Debug\net5.0\Decorator.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\obj\Debug\net5.0\refint\Decorator.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\obj\Debug\net5.0\Decorator.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\obj\Debug\net5.0\Decorator.genruntimeconfig.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Estructurales\Decorator\Decorator\obj\Debug\net5.0\ref\Decorator.dll

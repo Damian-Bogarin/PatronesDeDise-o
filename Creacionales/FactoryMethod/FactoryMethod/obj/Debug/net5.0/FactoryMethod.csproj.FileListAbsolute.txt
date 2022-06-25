@@ -1,0 +1,16 @@
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.exe
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.deps.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.dev.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\obj\Debug\net5.0\refint\FactoryMethod.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.genruntimeconfig.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\FactoryMethod\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll

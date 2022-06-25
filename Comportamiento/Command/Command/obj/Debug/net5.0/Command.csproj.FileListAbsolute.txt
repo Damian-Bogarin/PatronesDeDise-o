@@ -1,0 +1,16 @@
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\obj\Debug\net5.0\Command.csproj.AssemblyReference.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\obj\Debug\net5.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\obj\Debug\net5.0\Command.AssemblyInfoInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\obj\Debug\net5.0\Command.AssemblyInfo.cs
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\obj\Debug\net5.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\bin\Debug\net5.0\Command.exe
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\bin\Debug\net5.0\Command.deps.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\bin\Debug\net5.0\Command.runtimeconfig.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\bin\Debug\net5.0\Command.runtimeconfig.dev.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\bin\Debug\net5.0\Command.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\bin\Debug\net5.0\Command.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\obj\Debug\net5.0\Command.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\obj\Debug\net5.0\refint\Command.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\obj\Debug\net5.0\Command.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\obj\Debug\net5.0\Command.genruntimeconfig.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Command\Command\obj\Debug\net5.0\ref\Command.dll

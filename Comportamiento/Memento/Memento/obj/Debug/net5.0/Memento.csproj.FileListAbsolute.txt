@@ -1,0 +1,16 @@
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\obj\Debug\net5.0\Memento.csproj.AssemblyReference.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\obj\Debug\net5.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\obj\Debug\net5.0\Memento.AssemblyInfoInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\obj\Debug\net5.0\Memento.AssemblyInfo.cs
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\obj\Debug\net5.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\bin\Debug\net5.0\Memento.exe
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\bin\Debug\net5.0\Memento.deps.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\bin\Debug\net5.0\Memento.runtimeconfig.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\bin\Debug\net5.0\Memento.runtimeconfig.dev.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\bin\Debug\net5.0\Memento.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\bin\Debug\net5.0\Memento.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\obj\Debug\net5.0\Memento.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\obj\Debug\net5.0\refint\Memento.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\obj\Debug\net5.0\Memento.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\obj\Debug\net5.0\Memento.genruntimeconfig.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\Memento\Memento\obj\Debug\net5.0\ref\Memento.dll

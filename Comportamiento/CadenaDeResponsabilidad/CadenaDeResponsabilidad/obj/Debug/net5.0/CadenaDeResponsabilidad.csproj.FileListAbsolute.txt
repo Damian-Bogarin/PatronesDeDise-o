@@ -1,0 +1,16 @@
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\bin\Debug\net5.0\CadenaDeResponsabilidad.exe
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\bin\Debug\net5.0\CadenaDeResponsabilidad.deps.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\bin\Debug\net5.0\CadenaDeResponsabilidad.runtimeconfig.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\bin\Debug\net5.0\CadenaDeResponsabilidad.runtimeconfig.dev.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\bin\Debug\net5.0\CadenaDeResponsabilidad.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\bin\Debug\net5.0\CadenaDeResponsabilidad.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\net5.0\CadenaDeResponsabilidad.csproj.AssemblyReference.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\net5.0\CadenaDeResponsabilidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\net5.0\CadenaDeResponsabilidad.AssemblyInfoInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\net5.0\CadenaDeResponsabilidad.AssemblyInfo.cs
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\net5.0\CadenaDeResponsabilidad.csproj.CoreCompileInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\net5.0\CadenaDeResponsabilidad.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\net5.0\refint\CadenaDeResponsabilidad.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\net5.0\CadenaDeResponsabilidad.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\net5.0\CadenaDeResponsabilidad.genruntimeconfig.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Comportamiento\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\net5.0\ref\CadenaDeResponsabilidad.dll
