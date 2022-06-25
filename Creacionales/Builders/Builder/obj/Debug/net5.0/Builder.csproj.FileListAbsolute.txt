@@ -1,0 +1,16 @@
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\obj\Debug\net5.0\refint\Builder.dll
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
+C:\Users\boga_\OneDrive\Escritorio\Quarkacademy\C#\PatronesDeDiseño\Creacionales\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
